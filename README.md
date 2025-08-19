@@ -1,6 +1,9 @@
 # Address2Insights  
 **Turn any Canadian address into meaningful socioeconomic and market insights using StatCan data**
 
+
+![Output](Statcan.png)
+
 ---
 
 ## 🔍 Overview
@@ -62,11 +65,6 @@ The project demonstrates a working example but can be **easily extended** to cov
 4. **Fetch**: Downloads relevant socioeconomic data based on the boundary unit  
 5. **Process**: Computes rolling averages, trends, and growth metrics  
 6. **Output**: Insight-ready data for analytics or reporting  
-
----
-
-## Output Example
-![Output](Statcan.png)
 
 ---
 

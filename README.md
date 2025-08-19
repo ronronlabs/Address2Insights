@@ -1,4 +1,4 @@
-# Address2Insights  
+# Address To Insights with StatCan
 **Turn any Canadian address into meaningful socioeconomic and market insights using StatCan data**
 
 
